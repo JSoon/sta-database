@@ -1,0 +1,20 @@
+// 国家税务总局关于自然人纳税人识别号有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5198135/content.html
+// 国家税务总局关于简化小型微利企业所得税年度纳税申报有关措施的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194835/content.html
+// 财政部 税务总局 证监会关于继续执行内地与香港基金互认有关个人所得税政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202366/content.html
+// 免征车辆购置税的新能源汽车车型目录（第二十二批）
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207491/content.html
+// 社会保险基金先行支付暂行办法
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5192939/content.html
+// 国务院关于印发个人所得税专项附加扣除暂行办法的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102440/c5209858/content.html
+// 财政部关于将国家重大水利工程建设基金等政府非税收入项目划转税务部门征收的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5194833/content.html
+// 财政部 税务总局关于延长对废矿物油再生油品免征消费税政策实施期限的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202368/content.html
+// 国家税务总局关于将个人所得税《税收完税证明》（文书式）调整为《纳税记录》有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194832/content.html
+// 国家税务总局关于明确《税收完税证明》（文书式）开具管理有关事项的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5219591/content.html

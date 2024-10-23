@@ -1,0 +1,20 @@
+// 国家税务总局关于发布增值税发票系统升级版与税控收款机数据接口规范的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194585/content.html
+// 财政部 发展改革委 工业和信息化部 海关总署 国家税务总局关于调整集成电路生产企业进口自用生产性原材料 消耗品免税商品清单的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203880/content.html
+// 国家税务总局关于进一步简化和规范个人无偿赠与或受赠不动产免征营业税、个人所得税所需证明资料的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194707/content.html
+// 财政部 国家税务总局 科技部关于完善研究开发费用税前加计扣除政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203882/content.html
+// 财政部 国家税务总局关于煤炭采掘企业增值税进项税额抵扣有关事项的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203884/content.html
+// 国家税务总局关于“三证合一”登记制度改革涉及增值税一般纳税人管理有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194584/content.html
+// 人力资源社会保障部 国家税务总局关于印发《税务师职业资格制度暂行规定》和《税务师职业资格考试实施办法》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207605/content.html
+// 国家税务总局转发《财政部关于调整中央和国家机关差旅住宿费标准等有关问题的通知》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5216567/content.html
+// 财政部 国家税务总局关于影视等出口服务适用增值税零税率政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203886/content.html
+// 国家税务总局关于发布《减免税政策代码目录》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194583/content.html

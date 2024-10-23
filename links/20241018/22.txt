@@ -1,0 +1,20 @@
+// 国家税务总局关于支持居民换购住房个人所得税政策有关征管事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196822/content.html
+// 财政部 税务总局关于支持居民换购住房有关个人所得税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5201996/content.html
+// 财政部 税务总局关于银行业金融机构、金融资产管理公司不良债权以物抵债有关税收政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5201998/content.html
+// 财政部 税务总局关于企业投入基础研究税收优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202000/content.html
+// 国家税务总局关于全面实行税务行政许可事项清单管理的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196824/content.html
+// 国家税务总局关于优化纳税人延期缴纳税款等税务事项管理方式的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195197/content.html
+// 国家税务总局 工业和信息化部关于发布《免征车辆购置税的设有固定装置的非运输专用作业车辆目录》（第六批）的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196814/content.html
+// 财政部 税务总局 科技部关于加大支持科技创新税前扣除力度的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202002/content.html
+// 人力资源社会保障部办公厅 国家发展改革委办公厅 财政部办公厅 国家税务总局办公厅关于进一步做好阶段性缓缴社会保险费政策实施工作有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5206790/content.html
+// 财政部 税务总局 工业和信息化部关于延续新能源汽车免征车辆购置税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5195018/content.html

@@ -1,0 +1,20 @@
+// 国家税务总局关于印发《土地增值税纳税申报表》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193170/content.html
+// 国家税务总局关于固定业户临时外出经营有关增值税专用发票管理问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193169/content.html
+// 国家税务总局关于印发《个人所得税自行申报纳税暂行办法》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5216525/content.html
+// 国家税务总局关于瑞士航空公司有关税收问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193168/content.html
+// 国家税务总局关于外商投资企业和外国企业及外籍个人的外币收入如何折合成人民币计算缴纳税款问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193167/content.html
+// 国家税务总局关于印发《个人所得税代扣代缴暂行办法》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100011/c5216522/content.html
+// 国务院关税税则委员会 财政部 国家税务总局关于体育用品进口税收问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207407/content.html
+// 国家税务总局关于在中国境内无住所的个人计算缴纳个人所得税若干具体问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193166/content.html
+// 国家税务总局关于奥地利航空公司有关税收问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193164/content.html
+// 国家税务总局关于澳大利亚快达航空公司有关税收问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193165/content.html

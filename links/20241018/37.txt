@@ -1,0 +1,20 @@
+// 国家税务总局关于城市维护建设税征收管理有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194992/content.html
+// 财政部 税务总局关于契税法实施后有关优惠政策衔接问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202082/content.html
+// 国家税务总局关于契税纳税服务与征收管理若干事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194991/content.html
+// 财政部 税务总局关于继续执行的城市维护建设税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5194990/content.html
+// 商务部等6部门关于支持线下零售、住宿餐饮、外资外贸等市场主体纾困发展有关工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207183/content.html
+// 财政部 税务总局关于城市维护建设税计税依据确定办法等事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5194989/content.html
+// 中华人民共和国个人信息保护法
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211776/content.html
+// 海关总署等十部门关于进一步深化跨境贸易便利化改革优化口岸营商环境的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207185/content.html
+// 退役军人事务部等16部门关于促进退役军人投身乡村振兴的指导意见
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207187/content.html
+// 人力资源社会保障部 民政部 财政部 国家税务总局 国家乡村振兴局 中国残疾人联合会关于巩固拓展社会保险扶贫成果助力全面实施乡村振兴战略的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5194988/content.html

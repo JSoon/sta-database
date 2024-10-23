@@ -1,0 +1,20 @@
+// 国家税务总局关于发布第一批税务行政处罚权力清单的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194519/content.html
+// 国家税务总局关于发布适用启运港退（免）税政策的运输企业及运输工具名单的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194518/content.html
+// 国家税务总局 财政部 人力资源社会保障部 教育部 民政部关于支持和促进重点群体创业就业有关税收政策具体实施问题的补充公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194517/content.html
+// 国家税务总局关于修订《企业所得税汇算清缴数据采集规范》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218951/content.html
+// 国家税务总局转发《财政部关于印发〈政府和社会资本合作项目政府采购管理办法〉的通知》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218954/content.html
+// 国家税务总局关于做好2015年政府采购计划和执行情况及信息统计编报工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218948/content.html
+// 财政部 国家税务总局 发展改革委 工业和信息化部关于进一步鼓励集成电路产业发展企业所得税政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203956/content.html
+// 中华人民共和国国家发展和改革委员会 中华人民共和国环境保护部 中华人民共和国工业和信息化部 中华人民共和国财政部 中华人民共和国海关总署 国家税务总局关于公布《废弃电器电子产品处理目录（2014年版）》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207617/content.html
+// 国家税务总局关于进一步规范税收征管秩序 提高税收收入质量的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218945/content.html
+// 国家税务总局关于印发《税收违法案件一案双查工作补充规定》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218939/content.html

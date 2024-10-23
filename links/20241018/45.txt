@@ -1,0 +1,20 @@
+// 国家税务总局关于落实支持小型微利企业和个体工商户发展所得税优惠政策有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194967/content.html
+// 商务部办公厅 公安部办公厅 税务总局办公厅关于推进二手车交易登记跨省通办便利二手车异地交易的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207203/content.html
+// 财政部 税务总局 民政部关于生产和装配伤残人员专门用品企业免征企业所得税的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202124/content.html
+// 财政部 税务总局关于实施小微企业和个体工商户所得税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202126/content.html
+// 财政部 海关总署 税务总局关于“十四五”期间中西部地区国际性展会展期内销售的进口展品税收优惠政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202128/content.html
+// 财政部 税务总局关于进一步完善研发费用税前加计扣除政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202136/content.html
+// 国家税务总局关于小规模纳税人免征增值税征管问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194965/content.html
+// 《道路机动车辆生产企业及产品》（第342批）、《新能源汽车推广应用推荐车型目录》（2021年第3批）、《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第二十五批）、《免征车辆购置税的新能源汽车车型目录》（第四十一批）
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5194966/content.html
+// 财政部 税务总局关于明确增值税小规模纳税人免征增值税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202134/content.html
+// 财政部 国家发展改革委 工业和信息化部 海关总署 税务总局关于2021-2030年支持新型显示产业发展进口税收政策管理办法的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202130/content.html

@@ -1,0 +1,20 @@
+// 财政部 商务部 税务总局关于研发机构采购设备增值税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5212300/content.html
+// 财政部 税务总局 科技部 教育部关于继续实施科技企业孵化器、大学科技园和众创空间有关税收政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5212298/content.html
+// 财政部 税务总局关于减半征收证券交易印花税的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211343/content.html
+// 财政部 税务总局 国家发展改革委 生态环境部关于从事污染防治的第三方企业所得税政策问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5212302/content.html
+// 财政部 海关总署 税务总局关于延续实施跨境电子商务出口退运商品税收政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211520/content.html
+// 财政部 税务总局 中国证监会关于继续实施创新企业境内发行存托凭证试点阶段有关税收政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211074/content.html
+// 财政部 税务总局关于延续对充填开采置换出来的煤炭减征资源税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5212304/content.html
+// 财政部 税务总局 中国证监会关于延续实施沪港、深港股票市场交易互联互通机制和内地与香港基金互认有关个人所得税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211076/content.html
+// 财政部 税务总局 国家发展改革委 中国证监会关于延续实施创业投资企业个人合伙人所得税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211078/content.html
+// 财政部 税务总局 中国证监会关于延续实施支持原油等货物期货市场对外开放个人所得税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5211080/content.html

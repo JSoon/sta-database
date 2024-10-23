@@ -1,0 +1,20 @@
+// 国家税务总局关于印发《中华人民共和国企业所得税月（季）度预缴纳税申报表》等报表的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193936/content.html
+// 国家税务总局关于边境贸易出口货物退（免）税有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193935/content.html
+// 国家税务总局 财政部 国土资源部关于进一步加强土地税收管理工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193937/content.html
+// 国家税务总局关于2008年春节期间申报纳税期限顺延问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5217918/content.html
+// 国家税务总局关于发布已失效或废止的税收规范性文件目录（第二批）的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5217915/content.html
+// 国家税务总局关于生产企业正式投产前委托加工收回同类产品出口退税问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193934/content.html
+// 国家税务总局关于调整出口卷烟税收管理办法的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193933/content.html
+// 国家税务总局关于白银及其制品出口有关退税问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193930/content.html
+// 财政部 国家税务总局关于明确保险机构代收代缴车船税手续费有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5193929/content.html
+// 国家税务总局关于启用2007年版出口退税软件中增值税小规模纳税人出口货物免税管理相关业务功能的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194532/content.html

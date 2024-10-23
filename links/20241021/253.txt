@@ -1,0 +1,20 @@
+// 国家税务总局关于皂脚适用增值税税率问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194221/content.html
+// 国家税务总局关于扩大适用免抵退税管理办法企业范围有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5211564/content.html
+// 财政部 国家税务总局关于中国联合网络通信集团有限公司转让CDMA网及其用户资产企业合并资产整合过程中涉及的增值税营业税 印花税和土地增值税政策问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204204/content.html
+// 财政部 国家税务总局关于边境地区一般贸易和边境小额贸易出口货物以人民币结算准予退（免）税试点的补充通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204200/content.html
+// 国家税务总局关于《关于〈中华人民共和国政府和美利坚合众国政府关于对所得避免双重征税和防止偷漏税的协定〉第十九条解释的主管当局协议》生效执行的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5198075/content.html
+// 国家税务总局关于税务机关代征各种基金、费有关征缴入库和会统核算问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218424/content.html
+// 国家税务总局关于发布《网上纳税申报软件业务标准》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195167/content.html
+// 商务部 发展改革委 财政部 人民银行 海关总署 税务总局 质检总局 外汇局关于“十二五”期间实施积极的机电产品进口促进战略的若干意见
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207637/content.html
+// 国家税务总局关于印发《纳税服务经费管理暂行规定》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218421/content.html
+// 财政部 国家税务总局关于收购烟叶支付的价外补贴进项税额抵扣问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203584/content.html

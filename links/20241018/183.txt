@@ -1,0 +1,20 @@
+// 国家税务总局关于发布《自助办税终端系统技术规范》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218909/content.html
+// 财政部 国家税务总局 民政部关于公布获得2014年度第一批公益性捐赠税前扣除资格的公益性社会团体名单的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204010/content.html
+// 财政部 国家税务总局关于金融机构与小型微型企业签订借款合同免征印花税的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204012/content.html
+// 国家税务总局关于印发《税务稽查案卷管理暂行办法》和《税务稽查案卷电子文件管理参考规范》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218906/content.html
+// 国家税务总局关于证券交易印花税完税凭证有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194493/content.html
+// 国家税务总局关于企业出口集装箱有关退（免）税问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194492/content.html
+// 财政部 国家税务总局关于完善固定资产加速折旧企业所得税政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204014/content.html
+// 国家税务总局关于加强网上办税系统技术管理工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218903/content.html
+// 财政部 国家税务总局关于华夏航空有限公司及其分支机构增值税计算缴纳问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204016/content.html
+// 国家税务总局关于进一步加强小微企业税收优惠政策落实工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5218900/content.html

@@ -1,0 +1,20 @@
+// 财政部 税务总局关于小微企业和个体工商户所得税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5201976/content.html
+// 财政部 自然资源部 税务总局关于印发《矿业权出让收益征收办法》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5201980/content.html
+// 海关总署 财政部 税务总局关于增加海南离岛免税购物“担保即提”和“即购即提”提货方式的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5206779/content.html
+// 国家发展改革委等部门关于做好2023年享受税收优惠政策的集成电路企业或项目、软件企业清单制定工作有关要求的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5209844/content.html
+// 中华人民共和国立法法
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211769/content.html
+// 国家税务总局关于接续推出2023年“便民办税春风行动”第二批措施的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215819/content.html
+// 国家税务总局关于发布出口退税率文库2023A版的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215848/content.html
+// 商务部等17部门关于服务构建新发展格局推动边（跨）境经济合作区高质量发展若干措施的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5211540/content.html
+// 国家税务总局 工业和信息化部关于发布《免征车辆购置税的设有固定装置的非运输专用作业车辆目录》（第八批）的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196712/content.html
+// 国家税务总局关于办理2022年度个人所得税综合所得汇算清缴事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196795/content.html

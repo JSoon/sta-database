@@ -1,0 +1,20 @@
+// 国家税务总局关于加强增值税其他抵扣凭证数据采集传输管理有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193845/content.html
+// 国家税务总局关于个体工商户定期定额征收管理有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195140/content.html
+// 国家税务总局关于进一步明确西部大开发税收优惠政策适用目录变更问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193843/content.html
+// 国家税务总局关于燃油电厂取得发电补贴有关增值税政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193842/content.html
+// 国家税务总局关于内地和香港特别行政区避免双重征税安排生效及执行的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5217690/content.html
+// 商务部、国家税务总局公告公布《中国鼓励引进技术目录》
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207375/content.html
+// 国务院办公厅关于规范国有土地使用权出让收支管理的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102440/c5194162/content.html
+// 国家税务总局关于明确年所得12万元以上自行纳税申报口径的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5214046/content.html
+// 国家税务总局关于公路、内河货物运输业统一发票增值税抵扣有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193840/content.html
+// 国家税务总局关于印发个体工商户税收定期定额征收管理文书的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5214048/content.html

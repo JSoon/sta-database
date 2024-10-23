@@ -1,0 +1,20 @@
+// 国家税务总局 海关总署关于进口货物征收增值税、消费税有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5211628/content.html
+// 国家税务总局关于印发《增值税部分货物征税范围注释》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193123/content.html
+// 中华人民共和国企业所得税暂行条例
+https://fgk.chinatax.gov.cn/zcfgk/c100010/c5194394/content.html
+// 国家税务总局关于安徽省若干房产税业务问题的批复
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193122/content.html
+// 国家税务总局关于涉外税收实施增值税有关征管问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5216425/content.html
+// 国家税务总局 文化部 国家体委关于来我国从事文艺演出及体育表演收入应严格依照税法规定征税的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193121/content.html
+// 国家税务局关于中国人民银行向专业银行发放贷款所签合同征免印花税问题的批复
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193120/content.html
+// 国家税务局关于南斯拉夫联盟共和国继承原南斯拉夫社会主义联邦共和国议会联邦执行委员会和中华人民共和国避免双重征税协定的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193119/content.html
+// 国家税务局关于捷克共和国和斯洛伐克共和国继承原捷克斯洛伐克同我国签署的税收协定的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193118/content.html
+// 国家税务局关于受让土地使用权者应征收土地使用税问题的批复
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5193117/content.html

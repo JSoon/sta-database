@@ -1,0 +1,20 @@
+// 国家税务总局关于发布增值税发票税控开票软件数据接口规范的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194642/content.html
+// 财政部 国家税务总局关于公益股权捐赠企业所得税政策问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203736/content.html
+// 国家税务总局关于进一步做好营改增税控装置安装服务和监督管理工作有关问题的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5219216/content.html
+// 国家税务总局关于全面推开营业税改征增值税试点有关税收征收管理事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194641/content.html
+// 国家税务总局关于修订《重大税收违法案件信息公布办法（试行）》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194640/content.html
+// 《免征车辆购置税的新能源汽车车型目录》（第七批）
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207593/content.html
+// 人力资源社会保障部 财政部关于阶段性降低社会保险费率的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5194639/content.html
+// 民政部 国家税务总局关于加强民政部门与税务部门合作开展婚姻登记信息共享工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5194638/content.html
+// 国家税务总局关于延长2016年出口退（免）税相关业务申报期限的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194633/content.html
+// 财政部 国家税务总局 中国人民银行关于2016年财税库银税收收入电子缴库横向联网有关工作事项的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5203741/content.html

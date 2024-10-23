@@ -1,0 +1,20 @@
+// “非接触式”办税缴费事项清单
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5216958/content.html
+// 国家税务总局关于企业预缴申报享受研发费用加计扣除优惠政策有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196769/content.html
+// 国家税务总局等六部门关于严厉打击骗取留抵退税违法犯罪行为的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215884/content.html
+// 财政部 税务总局关于进一步持续加快增值税期末留抵退税政策实施进度的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202020/content.html
+// 《道路机动车辆生产企业及产品》（第355批）、《新能源汽车推广应用推荐车型目录》（2022年第4批）、《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第三十八批）、《免征车辆购置税的新能源汽车车型目录》（第五十四批）
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5195012/content.html
+// 财政部 税务总局关于快递收派服务免征增值税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202022/content.html
+// 国家税务总局关于进一步便利出口退税办理 促进外贸平稳发展有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196771/content.html
+// 国家税务总局办公厅 中华全国工商业联合会办公厅关于印发《2022年助力小微市场主体发展“春雨润苗”专项行动方案》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215887/content.html
+// 人力资源社会保障部 财政部 国家税务总局关于做好失业保险稳岗位提技能防失业工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5195010/content.html
+// 人力资源社会保障部办公厅 国家税务总局办公厅关于特困行业阶段性实施缓缴企业社会保险费政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5195011/content.html

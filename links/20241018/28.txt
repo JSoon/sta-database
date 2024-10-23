@@ -1,0 +1,20 @@
+// 国家税务总局关于修订发布《个人所得税专项附加扣除操作办法（试行）》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196775/content.html
+// 国家税务总局关于小规模纳税人免征增值税等征收管理事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196777/content.html
+// 财政部 税务总局关于对增值税小规模纳税人免征增值税的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202026/content.html
+// 财政部 税务总局 科技部关于进一步提高科技型中小企业研发费用税前加计扣除比例的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202028/content.html
+// 国家税务总局关于小型微利企业所得税优惠政策征管问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196779/content.html
+// 国家税务总局关于进一步加大增值税期末留抵退税政策实施力度有关征管事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5196781/content.html
+// 财政部 税务总局关于进一步加大增值税期末留抵退税政策实施力度的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202030/content.html
+// 国务院关于设立3岁以下婴幼儿照护个人所得税专项附加扣除的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102440/c5209849/content.html
+// 国家发展改革委等5个部门关于做好2022年享受税收优惠政策的集成电路企业或项目、软件企业清单制定工作有关要求的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5209851/content.html
+// 财政部 税务总局关于进一步实施小微企业所得税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202032/content.html

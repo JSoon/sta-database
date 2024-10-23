@@ -1,0 +1,20 @@
+// 国家税务总局关于企业所得税年度汇算清缴有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5195002/content.html
+// 交通运输部 国家税务总局关于延长《网络平台道路货物运输经营管理暂行办法》有效期的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207157/content.html
+// 国家税务总局关于修改《税务规范性文件制定管理办法》的决定
+https://fgk.chinatax.gov.cn/zcfgk/c100011/c5195253/content.html
+// 财政部 税务总局关于延续实施外籍个人津补贴等有关个人所得税优惠政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202058/content.html
+// 中共中央宣传部 国家税务总局关于授予马丽等10名同志“最美税务人”称号的决定
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215984/content.html
+// 财政部 税务总局关于权益性投资经营所得个人所得税征收管理的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202060/content.html
+// 财政部 税务总局关于完善资源综合利用增值税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202062/content.html
+// 国家税务总局关于发布《第二批税务行政处罚“首违不罚”事项清单》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194634/content.html
+// 《道路机动车辆生产企业及产品》（第351批）、《新能源汽车推广应用推荐车型目录》（2021年第12批）、《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第三十四批）、《免征车辆购置税的新能源汽车车型目录》（第五十批）
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5194635/content.html
+// 财政部 税务总局 民政部关于2021年度——2023年度公益性社会组织捐赠税前扣除资格名单的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202064/content.html

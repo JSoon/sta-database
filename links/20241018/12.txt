@@ -1,0 +1,20 @@
+// 国家税务总局关于第九批全国税务领军人才学员选拔考试的通告
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5215786/content.html
+// 国家税务总局关于优化纳税服务 简并居民企业报告境外投资和所得信息有关报表的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5213588/content.html
+// 国家税务总局关于发布《涉税专业服务基本准则（试行）》和《涉税专业服务职业道德守则（试行）》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5213581/content.html
+// 财政部 税务总局关于先进制造业企业增值税加计抵减政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5212095/content.html
+// 中华人民共和国行政复议法
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5220333/content.html
+// 国家税务总局 工业和信息化部关于发布《免征车辆购置税的设有固定装置的非运输专用作业车辆目录》（第十一批）的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5213590/content.html
+// 中华人民共和国民事诉讼法
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5220330/content.html
+// 国家税务总局关于贯彻执行提高个人所得税有关专项附加扣除标准政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5213592/content.html
+// 国务院关于提高个人所得税有关专项附加扣除标准的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102440/c5213594/content.html
+// 工业和信息化部 国家发展改革委 财政部 税务总局关于2023年度享受增值税加计抵减政策的集成电路企业清单制定工作有关要求的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5220373/content.html

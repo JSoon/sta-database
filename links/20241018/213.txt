@@ -1,0 +1,20 @@
+// 国家税务总局关于调整增值税纳税申报有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194370/content.html
+// 国家税务总局 海关总署关于实行海关进口增值税专用缴款书“先比对后抵扣”管理办法有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194369/content.html
+// 国家税务总局关于出口企业申报出口货物退（免）税提供收汇资料有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194367/content.html
+// 文化部 中央组织部 中央宣传部 中央编办发展改革委 财政部 人力资源社会保障部 税务总局 工商总局关于支持转企改制国有文艺院团改革发展的指导意见
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207307/content.html
+// 国家税务总局关于交通运输业和部分现代服务业营业税改征增值税试点增值税一般纳税人资格认定有关事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194366/content.html
+// 国家税务总局关于油气田企业开发煤层气 页岩气增值税有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194365/content.html
+// 财政部 国家税务总局 民政部关于公布获得2012年度第二批公益性捐赠税前扣除资格的公益性社会团体名单的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204316/content.html
+// 商务部 发展改革委 教育部 科技部 工业和信息化部 财政部 人力资源社会保障部 税务总局 外汇局关于开展中国服务外包示范城市综合评价工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5207309/content.html
+// 国家税务总局 海关总署关于石脑油 燃料油 生产乙烯 芳烃类化工产品消费税退税问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194364/content.html
+// 财政部 国家税务总局关于在全国开展交通运输业和部分现代服务业营业税改征增值税试点税收政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5204322/content.html

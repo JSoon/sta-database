@@ -1,0 +1,20 @@
+// 国家税务总局关于进一步深化国税地税联合办税的指导意见
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5219487/content.html
+// 国家税务总局关于企业境外承包工程税收抵免凭证有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194759/content.html
+// 国务院关于废止《中华人民共和国营业税暂行条例》和修改《中华人民共和国增值税暂行条例》的决定
+https://fgk.chinatax.gov.cn/zcfgk/c100010/c5224883/content.html
+// 中华人民共和国增值税暂行条例
+https://fgk.chinatax.gov.cn/zcfgk/c100010/c5194442/content.html
+// 国家税务总局关于研发费用税前加计扣除归集范围有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194758/content.html
+// 中华人民共和国刑法修正案（十）
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211792/content.html
+// 中华人民共和国会计法
+https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211790/content.html
+// 财政部 税务总局 商务部 科技部 国家发展改革委关于将技术先进型服务企业所得税政策推广至全国实施的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202506/content.html
+// 财政部 税务总局 证监会关于继续执行沪港股票市场交易互联互通机制有关个人所得税政策的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202508/content.html
+// 国家税务总局 外交部关于外国驻华使（领）馆及其馆员在华购买货物和服务增值税退税管理有关问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194757/content.html

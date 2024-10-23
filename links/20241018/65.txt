@@ -1,0 +1,20 @@
+// 关于境外所得有关个人所得税政策的公告
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5207136/content.html
+// 国家税务总局关于增值税发票综合服务平台等事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194907/content.html
+// 财政部 工业和信息化部 海关总署 税务总局 能源局关于印发《重大技术装备进口税收政策管理办法》的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202246/content.html
+// 国家税务总局关于修订部分个人所得税申报表的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194900/content.html
+// 国家税务总局关于取消增值税扣税凭证认证确认期限等增值税征管问题的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194904/content.html
+// 国家税务总局关于办理2019年度个人所得税综合所得汇算清缴事项的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194905/content.html
+// 国家税务总局关于《内地和香港特别行政区关于对所得避免双重征税和防止偷漏税的安排》第五议定书生效执行的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194901/content.html
+// 国家税务总局关于修订《残疾人就业保障金缴费申报表》的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194903/content.html
+// 国家税务总局关于开展网络平台道路货物运输企业代开增值税专用发票试点工作的通知
+https://fgk.chinatax.gov.cn/zcfgk/c102424/c5217137/content.html
+// 国家税务总局关于《中华人民共和国政府和新西兰政府对所得消除双重征税和防止逃避税的协定》及议定书生效执行的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194902/content.html
