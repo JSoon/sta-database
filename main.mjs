@@ -11,17 +11,20 @@ puppeteer.use(StealthPlugin());
 
 // Launch the browser and open a new blank page
 const browser = await puppeteer.launch({
-  // headless: false
+  // headless: false,
+  args: ['--no-sandbox', '--disable-setuid-sandbox'],
 });
 
 // 下载文件路径
 const downloadPath = path.resolve('./downloads');
-// 错误日志路径
-const errorLogPath = path.resolve('./error.log');
 
 // 遍历下载链接
-const linkPath = path.resolve('./links', '20241018');
-// const linkPath = path.resolve('./links', '20241021');
+// const linkPath = path.resolve('./links', '20241018');
+const linkPath = path.resolve('./links', '20241021');
+// 错误日志路径
+// const errorLogPath = path.resolve('./error_20241018.log');
+const errorLogPath = path.resolve('./error_20241021.log');
+
 // 下载完成的文件数组
 const downloadedFiles = []
 try {
@@ -55,9 +58,6 @@ try {
         await browser.close();
         process.exit();
       }
-      // 统一处理文件名中的连续空白符
-      // const fileName = `${title.replace('// ', '').replace(/\s+/g, ' ')}.doc`;
-      // const filePath = path.resolve(downloadPath, fileName);
       // 检查文件是否已经下载
       if (fs.existsSync(file.filePath)) {
         console.log('文件已存在:', file.filePath);
@@ -65,7 +65,15 @@ try {
       }
       // 停顿 delayTime 毫秒
       await new Promise(r => setTimeout(r, _.random(0, 5000)));
-      await downloadFile(file.link);
+      try {
+        await downloadFile(file.link);
+      } catch (e) {
+        console.error(chalk.red('下载出错:', file.link));
+        // 写入错误日志
+        fs.appendFileSync(errorLogPath, `// ${file.fileName}\n${file.link}\n`);
+        // 更新已下载文件列表（下载失败的也要记录，用于判断是否所有文件均已下载）
+        downloadedFiles.push(file.filePath);
+      }
     }
   });
 } catch (err) {
@@ -106,8 +114,10 @@ async function downloadFile(link) {
         const newFileName = fileName.replace(/\s+/g, ' ');
         // 加上md5后缀，确保唯一性（因为有些规范文件可能重名，但是发布年份不一样）
         const newFilePath = path.resolve(downloadPath, `${newFileName}_${md5(link)}.doc`);
-        // 重命名下载文件
-        fs.renameSync(filePath, newFilePath);
+        // 重命名下载文件，防止原文件名不超长，但重命名超长的报错
+        try {
+          fs.renameSync(filePath, newFilePath);
+        } catch (e) { }
         // 清除定时器
         clearInterval(downloadTimer);
         // 更新已下载文件列表
@@ -118,7 +128,7 @@ async function downloadFile(link) {
       } else {
         console.log('下载中:', link);
         if (waitTime >= waitTimeMax) {
-          console.error(chalk.red('下载出错:', link));
+          console.error(chalk.red('下载出错（超过最大等待时间）:', link));
           // 写入错误日志
           fs.appendFileSync(errorLogPath, `// ${fileName}\n${link}\n`);
           // 清除定时器
