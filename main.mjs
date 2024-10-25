@@ -16,8 +16,9 @@ const browser = await puppeteer.launch({
 });
 
 // 下载文件路径
-const downloadPath = path.resolve('./downloads');
-
+// const downloadPath = path.resolve('./downloads');
+// const downloadPath = path.resolve('./downloads', '20241018');
+const downloadPath = path.resolve('./downloads', '20241021');
 // 遍历下载链接
 // const linkPath = path.resolve('./links', '20241018');
 const linkPath = path.resolve('./links', '20241021');
@@ -68,7 +69,7 @@ try {
       try {
         await downloadFile(file.link);
       } catch (e) {
-        console.error(chalk.red('下载出错:', file.link));
+        console.error(chalk.red('下载出错:', file.link, e));
         // 写入错误日志
         fs.appendFileSync(errorLogPath, `// ${file.fileName}\n${file.link}\n`);
         // 更新已下载文件列表（下载失败的也要记录，用于判断是否所有文件均已下载）
@@ -83,6 +84,8 @@ try {
 // 下载政策文件
 async function downloadFile(link) {
   const page = await browser.newPage();
+
+  page.setDefaultTimeout(60 * 1000); // 设置超时时间
 
   // 启用下载功能
   const client = await page.createCDPSession();
