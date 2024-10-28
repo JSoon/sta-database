@@ -71,14 +71,14 @@ try {
       } catch (e) {
         console.error(chalk.red('下载出错:', file.link, e));
         // 写入错误日志
-        fs.appendFileSync(errorLogPath, `// ${file.fileName}\n${file.link}\n`);
+        fs.appendFileSync(errorLogPath, `// （下载出错）${file.fileName}\n${file.link}\n`);
         // 更新已下载文件列表（下载失败的也要记录，用于判断是否所有文件均已下载）
         downloadedFiles.push(file.filePath);
       }
     }
   });
 } catch (err) {
-  console.error(chalk.red(err));
+  console.error(chalk.red('遍历出错:', err));
 }
 
 // 下载政策文件
@@ -133,7 +133,7 @@ async function downloadFile(link) {
         if (waitTime >= waitTimeMax) {
           console.error(chalk.red('下载出错（超过最大等待时间）:', link));
           // 写入错误日志
-          fs.appendFileSync(errorLogPath, `// ${fileName}\n${link}\n`);
+          fs.appendFileSync(errorLogPath, `// （超过最大等待时间）${fileName}\n${link}\n`);
           // 清除定时器
           clearInterval(downloadTimer);
           // 更新已下载文件列表（下载失败的也要记录，用于判断是否所有文件均已下载）
