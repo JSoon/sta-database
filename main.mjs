@@ -18,19 +18,22 @@ const browser = await puppeteer.launch({
 // 下载文件路径
 // const downloadPath = path.resolve('./downloads');
 // const downloadPath = path.resolve('./downloads', '20241018');
-const downloadPath = path.resolve('./downloads', '20241021');
+// const downloadPath = path.resolve('./downloads', '20241021');
+const downloadPath = path.resolve('./downloads', 'updates');
 // 遍历下载链接
 // const linkPath = path.resolve('./links', '20241018');
-const linkPath = path.resolve('./links', '20241021');
+// const linkPath = path.resolve('./links', '20241021');
+const linkPath = path.resolve('./links', 'updates');
 // 错误日志路径
 // const errorLogPath = path.resolve('./error_20241018.log');
-const errorLogPath = path.resolve('./error_20241021.log');
+// const errorLogPath = path.resolve('./error_20241021.log');
+const errorLogPath = path.resolve('./error_updates.log');
 
 // 下载完成的文件数组
 const downloadedFiles = []
 try {
   // 下载文件数组，包含标题和链接
-  const fileData = []
+  let fileData = []
   // 遍历所有链接文件
   recursiveReadDir(linkPath, ['.DS_Store'], async function (err, files) {
     files.forEach((file) => {
@@ -50,6 +53,9 @@ try {
         });
       });
     });
+    // 根据政策链接地址去重，防止重复下载
+    fileData = _.uniqBy(fileData, 'link');
+    console.log('全部文件数量:', fileData.length);
     // 下载文件
     for (let i = 0; i < fileData.length; i++) {
       const file = fileData[i];
@@ -120,7 +126,9 @@ async function downloadFile(link) {
         // 重命名下载文件，防止原文件名不超长，但重命名超长的报错
         try {
           fs.renameSync(filePath, newFilePath);
-        } catch (e) { }
+        } catch (e) {
+          fs.appendFileSync(errorLogPath, `// （重命名失败）${fileName}\n${link}\n`);
+        }
         // 清除定时器
         clearInterval(downloadTimer);
         // 更新已下载文件列表
