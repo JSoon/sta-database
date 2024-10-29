@@ -1,2 +1,4 @@
 // 国家税务总局 财政部 中国国家铁路集团有限公司关于铁路客运推广使用全面数字化的电子发票的公告
 https://fgk.chinatax.gov.cn/zcfgk/c100012/c5235333/content.html
+// 海关总署 财政部 商务部 文化和旅游部 税务总局关于明确市内免税店经营品种的公告
+https://fgk.chinatax.gov.cn/zcfgk/c100013/c5235495/content.html
